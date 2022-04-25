@@ -49,3 +49,5 @@ In dolor nibh, sollicitudin vel hendrerit at, lobortis id arcu. Quisque eget pha
 Donec a massa augue. Praesent scelerisque, nulla eu euismod convallis, diam mauris dapibus orci, quis convallis urna libero vitae mauris. Vivamus sed diam ut urna feugiat ultricies. Aliquam condimentum ac neque eget rhoncus. Sed viverra commodo eleifend. In hendrerit ex purus. Vivamus non risus at ante tincidunt ultrices. Suspendisse varius purus orci, at vulputate lacus euismod ut.
 
 Maecenas scelerisque ut eros vitae pretium. Quisque iaculis sagittis massa, eget convallis elit vestibulum ut. Curabitur massa nibh, eleifend non fringilla nec, congue non.
+
+<img class="lnXdpd" alt="Google" height="92" src="/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" srcset="/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png 1x, /images/branding/googlelogo/2x/googlelogo_color_272x92dp.png 2x" width="272" data-atf="1" data-frt="0">
