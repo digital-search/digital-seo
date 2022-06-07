@@ -7,16 +7,10 @@ tags:
 layout: layouts/post.njk
 ---
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
 ## Section Header
 
 <a href="{{ '/posts/firstpost/' | url }}">First post</a>
 <a href="{{ '/posts/thirdpost/' | url }}">Third post</a>
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quis magna ac odio faucibus rutrum vitae eu mauris. In ex ligula, bibendum quis magna nec, tincidunt lacinia nibh. Maecenas feugiat mi eu euismod lacinia. Aenean eleifend nunc vel dolor eleifend lacinia. Ut malesuada fringilla est, vel hendrerit dui molestie sed. Aliquam sodales nulla eget varius faucibus. Cras ornare erat aliquam feugiat gravida. Donec est neque, tristique gravida odio eu, mollis porta mauris. Suspendisse potenti. Phasellus quis commodo est. Aenean blandit est vel est malesuada maximus at vel nibh. Curabitur odio risus, tincidunt non maximus sit amet, cursus sed magna. Curabitur malesuada turpis ut turpis vehicula, id faucibus dolor rhoncus.
 
