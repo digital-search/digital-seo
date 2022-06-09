@@ -3,7 +3,6 @@ title: Platinum Jubilee Trifle
 description: This is a post on My Blog about leveraging agile frameworks.
 date: 2022-06-09
 tags:
-  - sam-ryder
 layout: layouts/post.njk
 ---
 

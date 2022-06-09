@@ -3,7 +3,6 @@ title: Sam Ryder space man.
 description: Why did Sam Ryder become so popular in 2022 with the song space man?
 date: 2022-06-09
 tags:
-  - sam-ryder
 layout: layouts/post.njk
 ---
 
