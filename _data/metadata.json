@@ -1,9 +1,9 @@
 {
   "title": "Digital Search",
   "url": "https://digital-search.netlify.app",
-  "description": "website for  content and SEO development",
+  "description": "Test website for  SEO and development",
   "feed": {
-    "subtitle": "website for  content and SEO development",
+    "subtitle": "Test website for  SEO and development",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://digital-search.netlify.app"
