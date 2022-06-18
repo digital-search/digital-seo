@@ -15,6 +15,3 @@ According to the independent <sub>1</sub> Jemma Melvin won the competition with 
 
 Sources:
 https://www.independent.co.uk/life-style/royal-family/platinum-pudding-jubilee-winner-recipe-b2078150.html
-
-Sources:
-<a href="https://en.wikipedia.org/wiki/Sam_Ryder_(singer)">https://en.wikipedia.org/wiki/Sam*Ryder*(singer)</a>
