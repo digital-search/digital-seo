@@ -1,19 +1,14 @@
 ---
+permalink: /sitemap.xml
 eleventyExcludeFromCollections: true
-permalink: sitemap.xml
 ---
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  {%- for page in collections.all %}
+
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for page in collections.all %}
   <url>
-    <loc>{{ site.url }}{{ page.url }}</loc>
-    <lastmod>{{ page.date | w3DateFilter }}</lastmod>
-    <changefreq>{% if page.data.changefreq %}{{ page.data.changefreq }}{% else %}monthly{% endif %}</changefreq>
-    <priority>{% if page.data.priority %}{{ page.data.priority }}{% else %}0.5{% endif %}</priority>
+    <loc>{{ site.url }}{{ page.url | url }}</loc>
+    <lastmod>{{ page.date.toISOString() }}</lastmod>
   </url>
-  {%- endfor %}
+  {% endfor %}
 </urlset>
