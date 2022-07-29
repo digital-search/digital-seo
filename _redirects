@@ -1,1 +1,5 @@
-https://digital-search.netlify.app/test https://digital-search.netlify.app/test1 301!
+---
+permalink: /_redirects
+eleventyExcludeFromCollections: true
+---
+/test /test1 301!
