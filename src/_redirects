@@ -3,7 +3,5 @@ permalink: /_redirects
 eleventyExcludeFromCollections: true
 ---
 /test /test1 301!
-https://digital-search.netlify.app/
-
 http://digital-search.netlify.app/* https://digital-search.netlify.app/:splat 301!
 https://www.digital-search.netlify.app/* https://digital-search.netlify.app/:splat 301!
