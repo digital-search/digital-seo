@@ -2,7 +2,7 @@
   publish = "_site"
   command = "DEBUG=* eleventy"
 
-[[redirects]]
+[redirects]
   from = "http://www.digital-search.netlify.app/*"
   to = "https://digital-search.netlify.app/"
   status = 301
