@@ -1,11 +1,3 @@
 [build]
   publish = "_site"
   command = "DEBUG=* eleventy"
-
-[redirects]
-  from = "http://www.digital-search.netlify.app/*"
-  to = "https://digital-search.netlify.app/"
-  status = 301
-  force = true
-  [redirects.headers]
-    X-From = "Netlify"
