@@ -1,20 +1,20 @@
 {
   "title": "Digital Search",
-  "url": "https://digital-search.netlify.app",
+  "url": "https://www.tryseo.fun",
   "description": "Test website for  SEO and development",
   "feed": {
     "subtitle": "Test website for  SEO and development",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://digital-search.netlify.app"
+    "id": "https://www.tryseo.fun"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://digital-search.netlify.app/feed/feed.json"
+    "url": "https://www.tryseo.fun/feed/feed.json"
   },
   "author": {
     "name": "Dan",
     "email": "TBC",
-    "url": "https://digital-search.netlify.app/about-me/"
+    "url": "https://www.tryseo.fun/about-me/"
   }
 }
