@@ -18,6 +18,7 @@ from = "/robots.txt"
   for = "/sitemap.xml"
   [headers.values]
   cache-control = '''
+  public,
   stale-if-error=90, 
   stale-while-revalidate=30, 
   max-age=30'''
