@@ -1,9 +1,3 @@
 [build]
   publish = "_site"
   command = "DEBUG=* eleventy"
-
-[[redirects]]
-from = “/blog/*”
-to = “https://tryseo.fun/blog/:splat”
-status = 301
-force = true
