@@ -22,5 +22,4 @@ from = "/robots.txt"
   stale-if-error=90, 
   stale-while-revalidate=30, 
   max-age=30'''
-  content-type ='''
-  application/xml''')
+  content-type = "application/json"
