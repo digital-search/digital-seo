@@ -4,11 +4,12 @@ https://tryseo.fun* https://www.tryseo.fun/:splat 301!
 # SSL not needed /.well_known/*  /well_known/:splat 200
 # Redirect all traffic from your Netlify subdomain to your primary domain:
 http://digital-search.netlify.app/* https://www.tryseo.fun/:splat 301!
-http://www.digital-search.netlify.app/* https://www.tryseo.fun/:splat 301!
 https://digital-search.netlify.app/* https://www.tryseo.fun/:splat 301!
-https://www.digital-search.netlify.app/* https://www.tryseo.fun/:splat 301!
 # redirect direct requests for default to custom domain 
 http://digital-search.netlify.app   https://www.tryseo.fun/   301!
 https://digital-search.netlify.app  https://www.tryseo.fun/   301!
-http://www.digital-search.netlify.app https://www.tryseo.fun/   301!
-https://www.digital-search.netlify.app https://www.tryseo.fun/   301!
+#rules fail www. does not exist 
+#http://www.digital-search.netlify.app/* https://www.tryseo.fun/:splat 301!
+#https://www.digital-search.netlify.app/* https://www.tryseo.fun/:splat 301!
+#http://www.digital-search.netlify.app https://www.tryseo.fun/   301!
+#https://www.digital-search.netlify.app https://www.tryseo.fun/   301!
