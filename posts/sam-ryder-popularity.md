@@ -7,8 +7,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-## Sam Ryder space man
-
 <h2>Why did Sam Ryder become so popular? </h2>
 According to Wikipedia <sub>1</sub>  
 Sam Ryder become popular on 2020 using the social media platform TikTok and being noticed by a number of celebrities

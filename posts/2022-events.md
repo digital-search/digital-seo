@@ -8,8 +8,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-## Events in 2022
-
 <ul>
 <li><a href="{{ '/posts/platinum-jubilee-trifle/' | url }}">
 Sam Ryder </a>
