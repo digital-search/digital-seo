@@ -9,8 +9,7 @@ layout: layouts/post.njk
 
 ## Platinum Jubilee Trifle
 
-<h2>Who won the Queens pudding competition?
-</h2>
+<h2>Who won the Queens pudding competition?</h2>
 According to the independent <sub>1</sub> Jemma Melvin won the competition with her lemon swiss roll and amerrit trifle.
 
 Sources:
