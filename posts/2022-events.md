@@ -8,9 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-# List of good news fun Events in 2022
-
-This post is a not of novel fun events that have happened that has happened away from the more serious news and events we have had over the last few years
+This post is a list of novel fun events that have happened that has happened away from the more serious news and events we have had over the last few years
 
 <ul>
 <li>
