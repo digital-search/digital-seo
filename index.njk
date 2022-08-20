@@ -6,11 +6,7 @@ eleventyNavigation:
 tag: home-page
 ---
 {% set maxPosts = collections.posts.length | min(3) %}
-<h1> Web development, fun and marketing</h1>
-Hi, this site was developed to help me learn technical skills 
-for web development and see if I can develop fun helpful content.
-This is a work in progress but will cover topics such as 
-fun events, digital marketing and web development 
+<h1> Events in 2022</h1>
 {% set postslist = collections.posts | head(-3) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
